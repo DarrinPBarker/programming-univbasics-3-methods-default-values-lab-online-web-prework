@@ -1,3 +1,4 @@
 def meal_choice 
- puts "What a nutritious meal!" #{name} nd your order to the console #{language}."
+ puts "What a nutritious meal!" #{Steak}
+ puts 
 end
