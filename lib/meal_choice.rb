@@ -1,3 +1,3 @@
 def meal_choice(name, language="Ruby")
- puts "What a nutritious meal!" #{name} and I am learning to program in #{language}."
+ puts "What a nutritious meal!" #{name} nd your order to the console #{language}."
 end
